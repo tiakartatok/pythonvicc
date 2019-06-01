@@ -1,0 +1,1038 @@
+[{
+   id: 1251908
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Történelem
+   subject category: None
+   subject category name: Történelem
+   theme: Mai világunk
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-05-20T00:00:00
+}, {
+   id: 1235111
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: Fényforrások
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2019-05-16T00:00:00
+}, {
+   id: 1228228
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Activity book exercises
+   mode: Házi feladat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-05-15T00:00:00
+}, {
+   id: 1178709
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Passive voice
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-05-03T00:00:00
+}, {
+   id: 1124816
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: Házi dolgozat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-04-17T00:00:00
+}, {
+   id: 1097109
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2019-04-11T00:00:00
+}, {
+   id: 1061019
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: Gömbtükrök
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2019-04-04T00:00:00
+}, {
+   id: 1059617
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Történelem
+   subject category: None
+   subject category name: Történelem
+   theme: Elõzõ órai anyagok
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-04-03T00:00:00
+}, {
+   id: 995308
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-03-22T00:00:00
+}, {
+   id: 994534
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-03-22T00:00:00
+}, {
+   id: 979595
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2019-03-19T00:00:00
+}, {
+   id: 954907
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Unit 3 Grammar and vocabulary
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-03-07T00:00:00
+}, {
+   id: 954906
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Reading and listening comprehension
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-03-07T00:00:00
+}, {
+   id: 954878
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Test Unit 3
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-03-12T00:00:00
+}, {
+   id: 946515
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Házi feladat
+   weight: 100%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-03-11T00:00:00
+}, {
+   id: 943446
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-02-26T00:00:00
+}, {
+   id: 877674
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: Elektromágneses kölcsönhatás
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2019-02-26T00:00:00
+}, {
+   id: 857764
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2019-02-21T00:00:00
+}, {
+   id: 770177
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-25T00:00:00
+}, {
+   id: 765660
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Földrajz
+   subject category: None
+   subject category name: Földünk – környezetünk
+   theme: 
+   mode: 
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Boa Péter Pál
+   date: 2019-01-25T00:00:00
+}, {
+   id: 765645
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Földrajz
+   subject category: None
+   subject category name: Földünk – környezetünk
+   theme: 
+   mode: Házi feladat
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Boa Péter Pál
+   date: 2019-01-09T00:00:00
+}, {
+   id: 765644
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Földrajz
+   subject category: None
+   subject category name: Földünk – környezetünk
+   theme: 
+   mode: Házi feladat
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Boa Péter Pál
+   date: 2019-01-09T00:00:00
+}, {
+   id: 765643
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Földrajz
+   subject category: None
+   subject category name: Földünk – környezetünk
+   theme: 
+   mode: Házi feladat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Boa Péter Pál
+   date: 2019-01-09T00:00:00
+}, {
+   id: 760283
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Rajz és vizuális kultúra
+   subject category: None
+   subject category name: Vizuális kultúra
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Balázs Krisztina
+   date: 2019-01-25T00:00:00
+}, {
+   id: 754017
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Történelem
+   subject category: None
+   subject category name: Történelem
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-01-25T00:00:00
+}, {
+   id: 753862
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-01-25T00:00:00
+}, {
+   id: 753823
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Test Unit 2
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-01-25T00:00:00
+}, {
+   id: 724905
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: magyar nyelv
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: 
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-25T00:00:00
+}, {
+   id: 724879
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar nyelv
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Gyakorlati feladat
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-25T00:00:00
+}, {
+   id: 709551
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Rajz és vizuális kultúra
+   subject category: None
+   subject category name: Vizuális kultúra
+   theme: Szerkesztés
+   mode: Gyakorlati feladat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Balázs Krisztina
+   date: 2019-01-23T00:00:00
+}, {
+   id: 709547
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Rajz és vizuális kultúra
+   subject category: None
+   subject category name: Vizuális kultúra
+   theme: Festés
+   mode: Gyakorlati feladat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Balázs Krisztina
+   date: 2019-01-24T00:00:00
+}, {
+   id: 698914
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Kémia
+   subject category: None
+   subject category name: Kémia
+   theme: 
+   mode: 
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Nyéki István Ferencné
+   date: 2019-01-24T00:00:00
+}, {
+   id: 681922
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-01-23T00:00:00
+}, {
+   id: 679129
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: 
+   mode: 
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2019-01-23T00:00:00
+}, {
+   id: 666170
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-23T00:00:00
+}, {
+   id: 665676
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar nyelv
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-23T00:00:00
+}, {
+   id: 665664
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar nyelv
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-23T00:00:00
+}, {
+   id: 638468
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: HalfYear
+   type name: Félévi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: 
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2019-01-22T00:00:00
+}, {
+   id: 589279
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Irregular verbs
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-01-11T00:00:00
+}, {
+   id: 588341
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-01-07T00:00:00
+}, {
+   id: 588340
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-01-14T00:00:00
+}, {
+   id: 588302
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: matematika
+   subject category: None
+   subject category name: Matematika
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Kovácsné Tóth Klára
+   date: 2019-01-08T00:00:00
+}, {
+   id: 547178
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: Teljesítmény
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2019-01-10T00:00:00
+}, {
+   id: 533258
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar nyelv
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-09T00:00:00
+}, {
+   id: 533247
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-09T00:00:00
+}, {
+   id: 533246
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2019-01-09T00:00:00
+}, {
+   id: 524318
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Történelem
+   subject category: None
+   subject category name: Történelem
+   theme: A kétpólusú világ
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2019-01-07T00:00:00
+}, {
+   id: 485971
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Grammar U1
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2018-12-10T00:00:00
+}, {
+   id: 485970
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Vocabulary U1
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2018-12-10T00:00:00
+}, {
+   id: 485938
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Angol
+   subject category: None
+   subject category name: Angol nyelv
+   theme: Irregular verbs 2.
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2018-12-17T00:00:00
+}, {
+   id: 471756
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2018-12-18T00:00:00
+}, {
+   id: 460485
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2018-10-16T00:00:00
+}, {
+   id: 460425
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Na
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2018-11-27T00:00:00
+}, {
+   id: 460400
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Na
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2018-10-16T00:00:00
+}, {
+   id: 460399
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Na
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2018-10-16T00:00:00
+}, {
+   id: 460377
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: magyar irodalom
+   subject category: None
+   subject category name: Magyar nyelv és irodalom
+   theme: 
+   mode: Na
+   weight: 100%
+   value: Jeles(5)
+   number value: 5
+   seen by tutelary utc: None
+   teacher: Keszy-Harmath Eszter
+   date: 2018-09-25T00:00:00
+}, {
+   id: 441958
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Fizika
+   subject category: None
+   subject category name: Fizika
+   theme: Ellenállás
+   mode: Szóbeli felelet
+   weight: 100%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Dziubanek András István
+   date: 2018-12-13T00:00:00
+}, {
+   id: 430722
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Biológia
+   subject category: None
+   subject category name: Biológia
+   theme: 
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégséges(2)
+   number value: 2
+   seen by tutelary utc: None
+   teacher: Sándor Ákos István
+   date: 2018-12-11T00:00:00
+}, {
+   id: 421876
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Kémia
+   subject category: None
+   subject category name: Kémia
+   theme: 1.fejezet
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Elégtelen(1)
+   number value: 1
+   seen by tutelary utc: None
+   teacher: Nyéki István Ferencné
+   date: 2018-12-07T00:00:00
+}, {
+   id: 345671
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Történelem
+   subject category: None
+   subject category name: Történelem
+   theme: Elõzõ évi ismétlõ dolgozat
+   mode: Írásbeli témazáró dolgozat
+   weight: 200%
+   value: Közepes(3)
+   number value: 3
+   seen by tutelary utc: None
+   teacher: Tomborné Pál Szilvia
+   date: 2018-11-07T00:00:00
+}, {
+   id: 277190
+   form: Mark
+   form name: Elégtelen (1) és Jeles (5) között az öt alapértelmezett érték
+   type: MidYear
+   type name: Évközi jegy/értékelés
+   subject: Kémia
+   subject category: None
+   subject category name: Kémia
+   theme: 
+   mode: Írásbeli röpdolgozat
+   weight: 100%
+   value: Jó(4)
+   number value: 4
+   seen by tutelary utc: None
+   teacher: Nyéki István Ferencné
+   date: 2018-10-17T00:00:00
+}]
